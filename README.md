@@ -58,4 +58,4 @@ Implementing JK_flipflop in Verilog HDL (Hardware Description Language) involves
 
 **RESULT**
 
-Implemented  JK flipflop using verilog and validating their functionality using their functional tables
+Implemented  JK flipflop using verilog and validating their functionality using their functional tables.
