@@ -2,11 +2,11 @@
 ### REGNO:24900083
 ### EXPNO7:JK_flipflop
 
-# AIM: 
+#AIM: 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
 
-# SOFTWARE REQUIRED:
+#SOFTWARE REQUIRED:
 
 Quartus prime
 
