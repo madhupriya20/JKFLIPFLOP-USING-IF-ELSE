@@ -1,6 +1,6 @@
 ### NAME:MADHUPRIYA.R
-### REGNO:24900083
-# EXPNO7:JK_flipflop
+### REG NO:24900083
+# EXP NO7:JK_flipflop
 
 **AIM:** 
 
@@ -35,6 +35,7 @@ By using three variable K-Map, we can get the simplified expression for next sta
 The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=JQ(t)′+K′Q(t)Q(t+1)=JQ(t)′+K′Q(t)
 
 **Procedure**
+
 Implementing JK_flipflop in Verilog HDL (Hardware Description Language) involves translating the simplified Boolean expressions into Verilog code to describe the behavior of digital circuits. The basic building blocks in Verilog is module. The module represent a combinational circuit. Use logical operators (&, |, ~, ^) to implement Boolean functions directly. Use built-in gate primitives for basic functions. Use University program VWF to verify the functionality of your Verilog modules. Create waveform and check outputs against expected results.
 
 
@@ -49,7 +50,6 @@ Implementing JK_flipflop in Verilog HDL (Hardware Description Language) involves
 **RTL LOGIC FOR FLIPFLOPS**
 
 ![Screenshot 2024-11-28 144815](https://github.com/user-attachments/assets/24a47193-2c3c-4e97-925a-66a38fd7981e)
-
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
