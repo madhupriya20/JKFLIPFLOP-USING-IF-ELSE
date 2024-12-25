@@ -1,6 +1,6 @@
 ### NAME:MADHUPRIYA.R
 ### REG NO:24900083
-# EXP NO7:JK_flipflop
+# EXP NO5:JK_flipflop
 
 **AIM:** 
 
