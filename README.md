@@ -1,18 +1,18 @@
 ### NAME:MADHUPRIYA.R
 ### REG NO:24900083
-# EXP NO5:JK_flipflop
+# EXP NO5:JK flipflop
 
-**AIM:** 
+#AIM
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
 
-**SOFTWARE REQUIRED:**
+#SOFTWARE REQUIRED
 
 Quartus prime
 
-**THEORY**
+#THEORY
 
-**JK Flip-Flop**
+#JK Flip-Flop
 
 JK flip-flop is the modified version of SR flip-flop. It operates with only positive clock transitions or negative clock transitions. The circuit diagram of JK flip-flop is shown in the following figure.
 
@@ -34,28 +34,28 @@ By using three variable K-Map, we can get the simplified expression for next sta
 
 The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=JQ(t)′+K′Q(t)Q(t+1)=JQ(t)′+K′Q(t)
 
-**Procedure**
+#Procedure
 
 Implementing JK_flipflop in Verilog HDL (Hardware Description Language) involves translating the simplified Boolean expressions into Verilog code to describe the behavior of digital circuits. The basic building blocks in Verilog is module. The module represent a combinational circuit. Use logical operators (&, |, ~, ^) to implement Boolean functions directly. Use built-in gate primitives for basic functions. Use University program VWF to verify the functionality of your Verilog modules. Create waveform and check outputs against expected results.
 
 
 
-**PROGRAM**
+#PROGRAM
 
 
 ![Screenshot 2024-11-28 144846](https://github.com/user-attachments/assets/1323e7da-09da-49d1-a9a6-de1e7f9e1a67)
 
 
 
-**RTL LOGIC FOR FLIPFLOPS**
+#RTL LOGIC FOR FLIPFLOPS
 
 ![Screenshot 2024-11-28 144815](https://github.com/user-attachments/assets/24a47193-2c3c-4e97-925a-66a38fd7981e)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+#TIMING DIGRAMS FOR FLIP FLOPS
 
 ![Screenshot 2024-12-09 103648](https://github.com/user-attachments/assets/131419c6-0d67-4ce8-8c11-e0900538d803)
 
 
-**RESULT**
+#RESULT
 
 Implemented  JK flipflop using verilog and validating their functionality using their functional tables.
