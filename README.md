@@ -1,6 +1,6 @@
 ### NAME:MADHUPRIYA.R
 ### REG NO:24900083
-# EXP NO5:JK flipflop
+# EXP NO5: Implementation ofJK flipflop
 
 # AIM
 
