@@ -2,7 +2,7 @@
 ### REG NO:24900083
 # EXP NO5:JK flipflop
 
-#AIM
+# AIM
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
 
